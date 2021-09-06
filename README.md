@@ -193,6 +193,8 @@ Your Final App should look like this:
 
 ## DEMO
 
+Please not the demo video currently does not have the LED strip and associated functions because I managed to fry my LED Strip by mistake.
+It will be updated whenever amazon decides to deliver the new strip.
 
 
 https://user-images.githubusercontent.com/40831270/132221162-6bee0579-d2e3-4809-b7d0-613e4e27ee15.mp4
